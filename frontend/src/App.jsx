@@ -100,7 +100,7 @@ export default function App() {
           marginBottom: 20,
           animation: 'fadeUp 0.6s ease forwards',
         }}>
-          Detect & Fix
+          Detect & Suggest
           <span style={{
             display: 'block',
             background: 'linear-gradient(135deg, var(--accent), var(--accent2))',
