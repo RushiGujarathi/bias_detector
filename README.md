@@ -1,7 +1,7 @@
 # ⚖️ UnbiasedAI — Bias Detection & Fairness Advisor
 
-github link-https://github.com/RushiGujarathi/bias_detector/tree/main/backend
-Drive link-
+github link-https://github.com/RushiGujarathi/bias_detector
+Drive link-https://drive.google.com/file/d/1tWEDesEjvE-I5EectwgBfU5MuwxER5WX/view?usp=drive_link
 
 **Live Demo:** 
 Frontend:https://bias-detector-eight.vercel.app/ 
